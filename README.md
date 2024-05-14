@@ -1,2 +1,2 @@
-# diagramas-aws
-diagramas-aws
+# DIAGRAMAS DOS PROJETOS DA aws
+diagramas para postagens no linkdin
